@@ -1,1 +1,12 @@
 
+import java.io.*;
+import static java.lang.System.*;
+class facts{
+  public static void main (String str[]) throws IOException {
+ 
+String Ali = ("Femboy");
+if (Ali.equals("Femboy")) {
+System.out.println("Ali is top");
+};
+  }
+  }
